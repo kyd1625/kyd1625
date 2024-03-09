@@ -8,7 +8,7 @@
 
   <hr>
   <h5>
-    I Uesd Languages
+    I Uesd Tech
   </h5>
 
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kyd1625&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
