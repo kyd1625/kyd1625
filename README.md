@@ -10,7 +10,7 @@
 
   <hr>
   <h5>
-    I Uesd Tech
+    I Uesd Language and Tool
   </h5>
 
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kyd1625&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
