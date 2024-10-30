@@ -28,6 +28,8 @@
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=Mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
 
+  <hr>
+  
   <a href="https://github.com/devxb/gitanimals">
   <img src="https://render.gitanimals.org/farms/kyd1625"/>
 </a>
